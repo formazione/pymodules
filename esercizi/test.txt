@@ -1,0 +1,17 @@
+Example of using the shakedata module
+
+from esercizi.shakedata import ShakeData
+
+ShakeData(file)
+
+crediti_diversi     =  200
+immob_finan         =  400
+ratei_attivi        =  3200
+cassa               =  4400
+crediti_v_clienti   =  1700
+immob_immat         =  2100
+rimanenze           =  900
+immob_mater         =  700
+banca               =  1500
+
+

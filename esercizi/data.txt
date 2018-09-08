@@ -1,0 +1,9 @@
+banca               =  600
+cassa               =  1300
+crediti_diversi     =  1600
+crediti_v_clienti   =  1500
+immob_finan         =  2600
+immob_immat         =  2400
+immob_mater         =  100
+ratei_attivi        =  1700
+rimanenze           =  1200
